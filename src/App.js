@@ -41,7 +41,7 @@ function App() {
     <Card.Body>
       <Card.Title>About me </Card.Title>
       <Card.Text>
-       Hi ! I am Meyssa Slama 22years old girl who lives in Nabeul, right now I am studing at Go My Code and I am realy satisfied with the things I am doing, little facts about me : I love cat I mean ADORE cats because they're just cute like me, I can't stop loving them because I see myself on them God just look at my gorgeous smile!!, in the end I wanna thank you for reading this and thank me for loving me and writing this.
+       Hi ! I am Meyssa Slama 22years old girl who lives in Nabeul, right now I am studing at Go My Code and I am realy satisfied with the things I am doing, little facts about me : I love cat I mean I ADORE cats because they're just cute like me, I can't stop loving them because I see myself on them God just look at my gorgeous smile!!, in the end I wanna thank you for reading this and thank me for loving me and writing this.
       </Card.Text>
     </Card.Body>
    
@@ -51,7 +51,7 @@ function App() {
     <Card.Body>
       <Card.Title>More ...</Card.Title>
       <Card.Text>
-        Since it's a free space I'll talk about me again, this time I'll talke about the one that I love the most, my all, my everything in this life, I don't thing that I can live without him, he's handsome, lovely, sweet, and spicy !! and that's what I love about him the most .. I thing it's time to tell you about his name I call him love and they call him Food, sorry for wasting you're time reading this again :) but it was your choice to read it :P
+        Since it's a free space I'll talk about me again, this time I'll talke about the one that I love the most, my all, my everything in this life, I don't think that I can live without him, he's handsome, lovely, sweet, and spicy !! and that's what I love about him the most .. I think it's time to tell you about his name I call him love and they call him Food, sorry for wasting you're time reading this again :) but it was your choice to read it :P
       </Card.Text>
       <a href="https://www.pinterest.com/meyssaslama/food/">here some pictures for him </a>
     </Card.Body>
@@ -163,7 +163,7 @@ function App() {
     <Card.Body>
       <Card.Title>Enjoy this chapiter</Card.Title>
       <Card.Text>
-       even with the characters you'd love to replace and the challenges you'd do anythingto erease.
+       even with the characters you'd love to replace and the challenges you'd do anything to erease.
        Your story is transforming each day into something incredible.
       </Card.Text>
       <Card.Text>
@@ -194,7 +194,7 @@ function App() {
 
   
     </Form.Group>
-    <Button variant="dark" type="button">Go Go and send itk</Button>
+    <Button variant="dark" type="button">Go Go and send it </Button>
 
 
 </Form>
